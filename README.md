@@ -15,10 +15,14 @@ A full-stack real-time chat app with:
 
 ### Backend
 cd server
+
 npm install
+
 npm start
 
 ### Frontend
 cd client
+
 npm install
+
 npm run dev
