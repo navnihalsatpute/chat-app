@@ -8,6 +8,7 @@ A full-stack real-time chat app with:
 
 ## Structure
 /client - React Frontend
+
 /server - Node.js + Express Backend
 
 ## Setup
