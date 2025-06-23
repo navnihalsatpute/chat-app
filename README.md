@@ -6,6 +6,8 @@ A full-stack real-time chat app with:
 - Private & Public Chat
 - Dark Mode Toggle
 
+Live link: https://chat-app-frontend-navnihal-satputes-projects.vercel.app/
+
 ## Structure
 /client - React Frontend
 
