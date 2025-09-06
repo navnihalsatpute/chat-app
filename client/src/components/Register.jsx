@@ -8,7 +8,7 @@ const Register = () => {
 
   const handleRegister = async () => {
     try {
-      await axios.post("http://localhost:3001/register", { email, password, username });
+      await axios.post("https://chat-app-backend-ljlg.onrender.com/register", { email, password, username });
       alert("Registered! Now login.");
     } catch (err) {
       alert(err.response.data);
